@@ -1,4 +1,4 @@
-# loopy-belief-propagation-using-CUDA
+# Loopy-Belief-Propagation-using-CUDA
 Sum-Product (Loopy Belief Propagation) Algorithm using CUDA on GPU\
 Written by: Zana Rashidi\
 As part of the B.Sc. Project in Computer Engineering\
