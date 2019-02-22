@@ -20,7 +20,7 @@ $ ./lattice.out
 ```
 3. Enter grid dimension: 
 ```bash
-$ "Enter Grid Dim: "
+"Enter Grid Dim: "
 ```
 4. Compile sp.cu: 
 ```bash
