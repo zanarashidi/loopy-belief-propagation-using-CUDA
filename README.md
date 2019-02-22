@@ -2,7 +2,7 @@
 
 ## About
 
-An implementation of the Sum-Product (Loopy Belief Propagation) Algorithm using CUDA on GPU
+An implementation of the Loopy Belief Propagation (Sum-Product) Algorithm using CUDA on GPU
 
 This code was written as part of my B.Sc. Project in Computer Engineering at the Computer Engineering Department, Sharif University of Technology, Iran
 
