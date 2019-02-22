@@ -7,7 +7,7 @@ Sum-Product (Loopy Belief Propagation) Algorithm using CUDA on GPU
 This code was written as part of my B.Sc. Project in Computer Engineering at the Computer Engineering Department, Sharif University of Technology, Iran
 
 July 2017
- 
+
 ## How to use this code:
 
 1. Compile lattice.cpp: 
