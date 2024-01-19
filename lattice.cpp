@@ -1,17 +1,3 @@
-/*
- * Lattice
- * 
- * Written by: Zana Rashidi 
- * 
- * As part of the B.Sc. Project in Computer Engineering
- * 
- * Computer Engineering Department, Sharif University of Technology
- * 
- * Supervisor: Mahdi Jafari Siavoshani
- * 
- * July 2017
- */
-
 #include <iostream>
 #include <fstream>
 
